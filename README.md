@@ -1,2 +1,23 @@
 # SEMANA-14
-Laboratorio #3 de Programación II
+# Descripción: Laboratorio #3 de Programación II
+# Programación 2
+
+**Carlos Enmanuel Flores Mendez**
+
+## Comandos Git
+
+```sh
+#INICIAR GIR
+git init
+
+#AÑADIR TODO O ARCHIVOS
+git add . 
+git add ejemplo.js
+
+#COMMIT
+git commit -m "NOMBRE DE COMMIT" #Descripción de los cambios que se realizaron
+
+
+#PUSH
+git push -u origin master #primera vez //establecer rama
+git push origin #rama establecida
