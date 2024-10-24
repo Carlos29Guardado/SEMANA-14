@@ -2,7 +2,7 @@
 # Descripción: Laboratorio #3 de Programación II
 # Programación 2
 
-**Carlos Enmanuel Flores Mendez**
+**CARLOS ENMANUEL FLORES MENDEZ**
 
 ## Comandos Git
 
