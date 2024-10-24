@@ -22,4 +22,5 @@ git commit -m "NOMBRE DE COMMIT" #Descripción de los cambios que se realizaron
 git push -u origin master #primera vez //establecer rama
 git push origin #rama establecida
 
-![Captura de pantalla 2024-10-24 174415](https://github.com/user-attachments/assets/4ad99cb8-407f-4ffa-b5d6-be6d4229f4c5)
+![Captura de pantalla 2024-10-24 174415](https://github.com/user-attachments/assets/bcaeb276-40d6-4f57-8542-678adff89395)
+
